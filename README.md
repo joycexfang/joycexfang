@@ -1,4 +1,13 @@
-### Hi there 👋
+<img align="right" src="https://github.com/joycexfang/joycexfang/blob/master/joycefang_logo.png" alt="Joyce Fang Logo Calligraphy Design"
+	width=350px height=465px />
+
+### Hi there, I'm Joyce Fang. 👋
+
+As a designer and software engineer, I love to create new
+experiences and solutions for various product ideas. Ask 
+me anything about web development, UI/UX design, or brand
+identity systems!
+
 
 <!--
 **joycexfang/joycexfang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
