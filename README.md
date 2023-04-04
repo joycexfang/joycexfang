@@ -1,5 +1,5 @@
-<img align="right" src="https://github.com/joycexfang/joycexfang/blob/master/joycefang_logo.png" alt="Joyce Fang Logo Calligraphy Design"
-	width=350px height=465px />
+<img align="right" src="https://github.com/joycexfang/joycexfang/blob/main/joycefang_logo.png" alt="Joyce Fang Logo Calligraphy Design"
+	width=250px height=250px />
 
 ### Hi there, I'm Joyce Fang. 👋
 
